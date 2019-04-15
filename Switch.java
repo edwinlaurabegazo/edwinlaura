@@ -7,7 +7,7 @@ package pkgswitch;
 
 /**
  *
- * @author PC05-LAB02
+ * @author EdwinLBegazo
  */
 public class Switch {
 
